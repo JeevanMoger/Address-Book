@@ -1,1 +1,1 @@
-The Address Book project is a C program for managing contacts, allowing users to add, search, update, and delete entries. It uses file handling to store data persistently and supports sorted views for easy access.
+
